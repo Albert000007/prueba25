@@ -1,0 +1,58 @@
+# Archivos generados por el IDE de Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Resultados de compilación
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Archivos de publicación
+publish/
+
+# Dependencias (NuGet, npm, etc.)
+packages/
+.nuget/
+nuget.exe
+*.nupkg
+node_modules/
+
+# Archivos de configuración local
+appsettings.Development.json
+appsettings.Local.json
+launchSettings.json
+
+# Logs y temporales
+*.log
+*.tmp
+*.cache
+
+# Rider (opcional si usas JetBrains Rider)
+.idea/
+*.sln.iml
+
+# Azure Functions (opcional)
+func-artifacts/
+
+# Archivos de pruebas (opcional)
+TestResults/
+*.coverage
+*.coveragexml
+
+# Archivos de VS Code (opcional)
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Archivos de dotnet tools
+.dotnet/
+tools/
+
+# Archivos de Docker (opcional)
+**/.dockerignore
+**/.env

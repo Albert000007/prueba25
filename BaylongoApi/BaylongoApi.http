@@ -1,6 +1,0 @@
-@BaylongoApi_HostAddress = http://localhost:5005
-
-GET {{BaylongoApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
